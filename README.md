@@ -49,7 +49,7 @@ This should display the version of Git installed on your system.
 
    The remote serves as an alias for where your changes are uploaded pushes and pulls.
    ```bash 
-   git remote set-url origin git@github.com:russellchiu/testing.git
+   git remote set-url origin git@github.com:USERNAME/REPOSITORY_NAME.git
 
    ```
 
