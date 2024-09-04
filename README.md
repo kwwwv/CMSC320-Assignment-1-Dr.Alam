@@ -172,6 +172,8 @@ Answer: [Your answer here]
 
 ```
 
+stage/commit when youre done
+
 
 ### Step 2: Create a New Branch
 
