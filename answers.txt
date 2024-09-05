@@ -1,0 +1,5 @@
+Q1: Why might be consider using git?
+
+Answer: Git allows you to alter different repositories without affecting the main source. Multiple people can
+work on the same project with Git. It also allows for the main owner of the project to ensure a change is 
+necessary prior to merging it with Main. It's an essential tool for group projects and every day coding. 
