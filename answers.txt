@@ -3,3 +3,10 @@ Q1: Why might be consider using git?
 Answer: Git allows you to alter different repositories without affecting the main source. Multiple people can
 work on the same project with Git. It also allows for the main owner of the project to ensure a change is 
 necessary prior to merging it with Main. It's an essential tool for group projects and every day coding. 
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to multiple fields ranging from the medical field all the way to the 
+Oil industry. Within the medical field, data science can help with the analysis of patient's data to further
+the advancement of research. This can help improve treatments for diseases or even assist an individual's 
+personal treatment. The information gathered from data science is essential for everything around us. 
