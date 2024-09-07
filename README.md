@@ -179,9 +179,9 @@ stage/commit when youre done
 
 1. **Create a new branch named `q3`** and switch to it:
 
-2. **Add your answer to the third question** in `answers.txt`:
+2. **Add your answer to the fourth question** in `answers.txt`:
    ```text
-   Q3: What skills do you hope to improve during this course?
+   Q4: What skills do you hope to improve during this course?
 
    Answer: [Your answer here]
    ```
