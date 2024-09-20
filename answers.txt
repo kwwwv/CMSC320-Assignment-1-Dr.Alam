@@ -1,0 +1,15 @@
+Q1: Why might be consider using git?
+
+Answer: The access to code, and being able to modify certain parts of code without impacting other parts makes git convenient. Git provides version control which is also helpful.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to any field. It cen help in machine learning and decision making.  For example data science can help in marketing, analyzing data can help with understanding the audience and predict certain behaviors.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: We work with SQL, so hopefully my SQL skills are better and I can add these skills to my resume!
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: the difference between merging and rebasing is that rebase "replays" changes that are made from the branch into the main, but merging puts the forked branches back together again.  
